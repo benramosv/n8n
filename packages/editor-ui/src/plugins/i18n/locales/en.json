@@ -2587,7 +2587,7 @@
 	"settings.mfa.title": "Multi-factor Authentication",
 	"settings.mfa.updateConfiguration": "MFA configuration updated",
 	"settings.mfa.invalidAuthenticatorCode": "Invalid authenticator code",
-	"projects.header.subtitle": "All the workflows, credentials and executions you have access to",
+	"projects.header.subtitle": "Todos los flujos de trabajo, credenciales y ejecuciones",
 	"projects.create": "Create",
 	"projects.create.personal": "Create in personal",
 	"projects.create.team": "Create in project",
