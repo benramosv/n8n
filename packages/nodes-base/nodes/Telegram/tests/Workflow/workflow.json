@@ -101,7 +101,7 @@
 				"media": {
 					"media": [
 						{
-							"media": "https://raw.githubusercontent.com/n8n-io/n8n/refs/heads/master/assets/n8n-logo.png",
+							"media": "packages/editor-ui/public/static/n8n-logo.png",
 							"additionalFields": {}
 						}
 					]
